@@ -1,0 +1,19 @@
+{
+  "name": "666mmma",
+  "version": "1.0.0",
+  "description": "asad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insideourheart/666mmmA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insideourheart/666mmmA/issues"
+  },
+  "homepage": "https://github.com/insideourheart/666mmmA#readme"
+}
